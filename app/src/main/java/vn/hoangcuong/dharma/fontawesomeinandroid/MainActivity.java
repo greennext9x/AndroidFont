@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //Use FONTAWESOME
 
         Typeface iconFont = FontManager.getTypeface(getApplicationContext(), FontManager.FONTAWESOME);
-        FontManager.markAsIconContainer(findViewById(R.id.icon_container),iconFont);
+        FontManager.markAsIconContainer(findViewById(R.id.activity_main),iconFont);
     }
 }
