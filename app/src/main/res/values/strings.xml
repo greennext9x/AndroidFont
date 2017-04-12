@@ -1,0 +1,7 @@
+<resources>
+    //http://fontawesome.io/cheatsheet/
+    <string name="app_name">FontAwesomeInAndroid</string>
+    <string name="fa_icon_areachart">&#xf14a;</string>
+    <string name="fa_address_card_o">&#xf2bc;</string>
+    <string name="fa_shopping_bag">&#xf290;</string>
+</resources>
